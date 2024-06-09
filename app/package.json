@@ -21,7 +21,8 @@
     "react-native": "0.74.1",
     "react-native-maps": "1.15.1",
     "react-native-svg": "15.2.0",
-    "react-native-web": "0.19.11"
+    "react-native-web": "0.19.11",
+    "@expo/metro-runtime": "~3.2.1"
   },
   "devDependencies": {
     "@teovilla/react-native-web-maps": "0.9.5"
